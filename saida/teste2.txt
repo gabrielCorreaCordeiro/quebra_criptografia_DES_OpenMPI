@@ -1,0 +1,1 @@
+teste.txt: UTF-8 Unicode text

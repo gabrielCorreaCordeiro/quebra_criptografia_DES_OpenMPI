@@ -1,0 +1,1 @@
+./saida/1_saida.txt: Non-ISO extended-ASCII text, with no line terminators
